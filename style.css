@@ -1,0 +1,51 @@
+.rubrik{
+    font-size: 1,5em;
+    font-family: 'Courier New', Courier, monospace;
+    
+    text-align: center;
+
+    padding: 70xp;
+    border: 2px solid #03d3fc;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+body{
+    background-image: url(./img/winter-snow.jpg);
+}
+h1{
+    background-color: white;
+}
+td,th{
+    border: 4px solid blue;
+    background-color: aqua;
+}
+table{
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.kalender{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Lista{
+    border: 2px solid black;
+    background-color: lightcoral;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.picture{
+    display: flex;
+    border: 2px solid white;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
